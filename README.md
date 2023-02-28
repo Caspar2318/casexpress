@@ -14,4 +14,6 @@
 
 #sanity init --coupon javascriptmastery2022
 
-=> google => app name => yes (default dataset) => press enter => choose 'Clean project with no predefined schemas' (for better practice from beginning) => npm
+=> google => sanity_app_name => yes (default dataset) => press enter => choose 'Clean project with no predefined schemas' (for better practice from beginning) => npm
+
+#to run sanity server: cd sanity server folder (sanity_app_name) => npm run dev (sanity start only works for previous v2 version)
