@@ -17,3 +17,15 @@
 => google => sanity_app_name => yes (default dataset) => press enter => choose 'Clean project with no predefined schemas' (for better practice from beginning) => npm
 
 #to run sanity server: cd sanity server folder (sanity_app_name) => npm run dev (sanity start only works for previous v2 version)
+
+Features as:
+
+marquee animation inside product detail page;
+
+changing quantity and adding to cart at product detail page;
+
+buy now directly at product detail page;
+
+modify number at cart page;
+
+payment by stripe implement
