@@ -1,6 +1,6 @@
 # CasExpress - E-Commerce website with payment feature achieved, with Sanity and Stripe usage.
 
-# Live website at:
+# Live website at: https://casexpress.vercel.app
 
 #npx create-next-app
 
