@@ -29,3 +29,15 @@ buy now directly at product detail page;
 modify number at cart page;
 
 payment by stripe implement
+
+#nextJS has provide specific api folder inside pages as a server side file.
+
+#create stripe.js inside /pages/api
+
+stripe doc for Prebuilt Checkout page: https://stripe.com/docs/checkout/quickstart
+
+stripe test mode card info:
+
+4242 4242 4242 4242 04/24 424
+
+import confetti from 'canvas-confetti' => to create instance for confetti animation.
