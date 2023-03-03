@@ -20,15 +20,13 @@
 
 Features as:
 
-marquee animation inside product detail page;
-
-changing quantity and adding to cart at product detail page;
-
-buy now directly at product detail page;
-
-modify number at cart page;
-
-payment by stripe implement
+1.marquee animation inside product detail page; /  
+2.changing quantity and adding to cart at product detail page; /  
+3.buy now directly at product detail page; /  
+4.modify number at cart page; /  
+5.remove products at cart page; /  
+6.payment by stripe implement; /  
+7.successful payment page and back to home button; /
 
 #nextJS has provide specific api folder inside pages as a server side file.
 
@@ -41,3 +39,8 @@ stripe test mode card info:
 4242 4242 4242 4242 04/24 424
 
 import confetti from 'canvas-confetti' => to create instance for confetti animation.
+
+#something can be improved in the future:
+1.adding different shipping method and fees /
+2.reviews /
+3.cancel payment keep cart data /
